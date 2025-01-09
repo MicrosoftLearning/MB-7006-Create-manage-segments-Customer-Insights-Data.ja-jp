@@ -1,0 +1,1 @@
+# MB-7006-Create-manage-segments-Customer-Insights-Data.ja-jp
