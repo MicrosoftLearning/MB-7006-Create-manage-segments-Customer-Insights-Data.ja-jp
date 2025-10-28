@@ -1,3 +1,4 @@
+**⚠️ This GitHub repo will retire on 31st October 2025.**
 # MB-7006 - Dynamics 365 Customer Insights - Data でセグメントを作成および管理する
 
 このリポジトリには、MB-7006: Dynamics 365 Customer Insights – Data でのセグメントの作成と管理の演習とサポート ファイルが含まれています。 このコースは、Dynamics 365 Customer Insights – Data を使用して組織の異種データ システムを統合し、統合データ内の顧客属性とビジネス属性に基づいて強力なセグメントを作成する学生向けに設計されています。
